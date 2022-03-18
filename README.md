@@ -8,16 +8,16 @@
   </h1>
 
   <p align="center">
-   <b> Hi, I'm Yakup, Freely Software Developer from Turkey </b>
+   <b> Hi, I'm Hüsnü, Freely Software Developer from Baku </b>
     <br>
     <br>
-    🔬 I'm currently studying in Kocaeli University
+    🔬 I'm student 
     <br>
     💻 I love writing code and learn anythings about it
     <br>
     📚 I’m currently learning different software langauages
     <br>
-    💬 Ask me anything about from <a href="https://t.me/ayiak" title="sorun bildirme">here</a>
+    💬 Ask me anything about from <a href="https://t.me/slmmnmhusnu" title="problem bildirmə">here</a>
     <br>
   </p>
 
