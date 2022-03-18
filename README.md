@@ -22,12 +22,3 @@
     <code><img title="Heroku" height="30" src="https://raw.githubusercontent.com/husnudu/husnudu/main/images/heroku.svg"></code>
   </p>
   <hr>
-
-  <h2 align="center">⚡<b> Stats </b>⚡</h2>
-  <hr>
-  <br>
-  <p align=center>
-    <div align=center>
-      <a href="https://t.me/sakirbey2">
-        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=husnudu&theme=react&border=00f3e3&stroke=00f3e3&ring=00f3e3&fire=ff8800&hide_border=true&theme=highcontrast"/>
-      </a>
