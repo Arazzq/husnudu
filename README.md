@@ -15,7 +15,7 @@
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning different software langauages
+    📚 I’m currently learning different software languages
     <br>
     💬 Ask me anything about from <a href="https://t.me/slmmnhusnu" title="problem bildirmə">here</a>
     <br>
