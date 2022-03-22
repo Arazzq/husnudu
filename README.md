@@ -17,7 +17,7 @@
     <br>
     📚 I’m currently learning different software languages
     <br>
-    💬 Ask me anything about from <a href="https://t.me/slmmnhusnu" title="problem bildirmə">here</a>
+    💬 Ask me anything about from <a href="https://t.me/husnucontact" title="problem bildirmə">here</a>
     <br>
   </p>
 
