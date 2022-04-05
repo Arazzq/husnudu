@@ -17,7 +17,7 @@
     <br>
     📚 I’m currently learning different software languages
     <br>
-    💬 Ask me anything about from <a href="https://t.me/husnucontact" title="problem bildirmə">here</a>
+    💬 Ask me anything about from <a href="https://t.me/TheHusnuMustafayev" title="problem bildirmə">here</a>
     <br>
   </p>
 
@@ -61,7 +61,7 @@
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=aylak-github&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=husnu&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
   </p>
 
   <hr>
